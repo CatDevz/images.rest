@@ -1,0 +1,12 @@
+## Server Dependencies
+uvicorn[standard]
+gunicorn
+
+## Web Frameworks
+fastapi
+pydantic
+
+## Project Dependencies
+Pillow
+requests
+aiofiles
